@@ -4,5 +4,8 @@
   "description": "Searching for remote security jobs via tweets",
   "main": "index.ts",
   "author": "Austin L",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "twitter-api-sdk": "^1.2.1"
+  }
 }

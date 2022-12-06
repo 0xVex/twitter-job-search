@@ -1,0 +1,8 @@
+{
+  "name": "twitter-job-search",
+  "version": "1.0.0",
+  "description": "Searching for remote security jobs via tweets",
+  "main": "index.ts",
+  "author": "Austin L",
+  "license": "MIT"
+}
